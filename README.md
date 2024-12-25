@@ -11,8 +11,7 @@ Kumpulan data diambil dari Kaggle Mental Health In Tech Survey (https://www.kagg
 
 Proses Klasifikasi penelitian ini dimulai dengan langkah utama, yaitu penyesuaian parameter (tuning parameter), dan selanjutnya, dilakukan klasifikasi berdasarkan parameter-parameter yang telah diatur. Hasil dari tuning parameter dapat dilihat pada gambar dibawah
 - Tuning Parameter
-<img src="https://github.com/Muhammadazrulihwan/Klasifikasi-Kesehatan-Mental-Menggunakan-Machine-Learning/blob/main/screenshoot/hasil%20tuning%20parameter.png" width="500" height="600">
-
-Lalu hasil dari 14 percobaan dari teknik Tuning Parameter 
-<img src="https://github.com/Muhammadazrulihwan/Klasifikasi-Kesehatan-Mental-Menggunakan-Machine-Learning/blob/main/screenshoot/hasil%20akurasi%2014%20percobaan.png" width="500" height="600">
+<img src="https://github.com/Muhammadazrulihwan/Klasifikasi-Kesehatan-Mental-Menggunakan-Machine-Learning/blob/main/screenshoot/hasil%20tuning%20parameter.png" width="500" height="500">
+- Lalu hasil dari 14 percobaan dari teknik Tuning Parameter 
+<img src="https://github.com/Muhammadazrulihwan/Klasifikasi-Kesehatan-Mental-Menggunakan-Machine-Learning/blob/main/screenshoot/hasil%20akurasi%2014%20percobaan.png" width="500" height="500">
 
