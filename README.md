@@ -13,5 +13,5 @@ Proses Klasifikasi penelitian ini dimulai dengan langkah utama, yaitu penyesuaia
 - Tuning Parameter
 <img src="https://github.com/Muhammadazrulihwan/Klasifikasi-Kesehatan-Mental-Menggunakan-Machine-Learning/blob/main/screenshoot/hasil%20tuning%20parameter.png" width="500" height="500">
 - Lalu hasil dari 14 percobaan dari teknik Tuning Parameter 
-<img src="https://github.com/Muhammadazrulihwan/Klasifikasi-Kesehatan-Mental-Menggunakan-Machine-Learning/blob/main/screenshoot/hasil%20akurasi%2014%20percobaan.png" width="500" height="500">
+<img src="https://github.com/Muhammadazrulihwan/Klasifikasi-Kesehatan-Mental-Menggunakan-Machine-Learning/blob/main/screenshoot/hasil%20akurasi%2014%20percobaan.png" width="650" height="500">
 
